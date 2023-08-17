@@ -434,9 +434,9 @@
     
     <tags>
       
-      <tag>bit</tag>
-      
       <tag>string</tag>
+      
+      <tag>bit</tag>
       
     </tags>
     
@@ -1251,9 +1251,9 @@
     
     <tags>
       
-      <tag>recursion</tag>
-      
       <tag>string</tag>
+      
+      <tag>recursion</tag>
       
     </tags>
     
@@ -1416,9 +1416,9 @@
       
       <tag>implementation</tag>
       
-      <tag>recursion</tag>
-      
       <tag>string</tag>
+      
+      <tag>recursion</tag>
       
       <tag>parsing</tag>
       
@@ -2035,9 +2035,9 @@
       
       <tag>struct</tag>
       
-      <tag>binary-search</tag>
-      
       <tag>memory</tag>
+      
+      <tag>binary-search</tag>
       
     </tags>
     
@@ -2352,9 +2352,9 @@
     
     <tags>
       
-      <tag>pointer</tag>
-      
       <tag>constructive</tag>
+      
+      <tag>pointer</tag>
       
     </tags>
     
@@ -4764,9 +4764,9 @@
     
     <tags>
       
-      <tag>pointer</tag>
-      
       <tag>implementation</tag>
+      
+      <tag>pointer</tag>
       
       <tag>recursion</tag>
       
