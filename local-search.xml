@@ -123,11 +123,11 @@
     
     <tags>
       
+      <tag>sorting</tag>
+      
       <tag>binary</tag>
       
       <tag>tree</tag>
-      
-      <tag>sorting</tag>
       
     </tags>
     
@@ -603,9 +603,9 @@
     
     <tags>
       
-      <tag>string</tag>
-      
       <tag>pointer</tag>
+      
+      <tag>string</tag>
       
     </tags>
     
@@ -1181,9 +1181,9 @@
     
     <tags>
       
-      <tag>recursion</tag>
-      
       <tag>pointer</tag>
+      
+      <tag>recursion</tag>
       
       <tag>binary</tag>
       
@@ -2035,9 +2035,9 @@
       
       <tag>struct</tag>
       
-      <tag>memory</tag>
-      
       <tag>binary-search</tag>
+      
+      <tag>memory</tag>
       
     </tags>
     
@@ -2313,9 +2313,9 @@
     
     <tags>
       
-      <tag>recursion</tag>
-      
       <tag>pointer</tag>
+      
+      <tag>recursion</tag>
       
       <tag>binary</tag>
       
@@ -2676,9 +2676,9 @@
     
     <tags>
       
-      <tag>string</tag>
-      
       <tag>pointer</tag>
+      
+      <tag>string</tag>
       
     </tags>
     
@@ -4694,11 +4694,11 @@
       
       <tag>tree</tag>
       
-      <tag>bst</tag>
-      
       <tag>complier</tag>
       
       <tag>flag</tag>
+      
+      <tag>bst</tag>
       
     </tags>
     
@@ -4766,9 +4766,9 @@
       
       <tag>implementation</tag>
       
-      <tag>recursion</tag>
-      
       <tag>pointer</tag>
+      
+      <tag>recursion</tag>
       
       <tag>binary</tag>
       
@@ -5059,9 +5059,9 @@
     
     <tags>
       
-      <tag>string</tag>
-      
       <tag>pointer</tag>
+      
+      <tag>string</tag>
       
     </tags>
     
@@ -5315,9 +5315,9 @@
     
     <tags>
       
-      <tag>array</tag>
-      
       <tag>loop</tag>
+      
+      <tag>array</tag>
       
     </tags>
     
@@ -6535,9 +6535,9 @@
       
       <tag>2d-array</tag>
       
-      <tag>implementation</tag>
-      
       <tag>constructive</tag>
+      
+      <tag>implementation</tag>
       
     </tags>
     
@@ -6568,9 +6568,9 @@
     
     <tags>
       
-      <tag>implementation</tag>
-      
       <tag>constructive</tag>
+      
+      <tag>implementation</tag>
       
     </tags>
     
@@ -6663,11 +6663,11 @@
     
     <tags>
       
-      <tag>2d-array</tag>
-      
       <tag>loop</tag>
       
       <tag>online</tag>
+      
+      <tag>2d-array</tag>
       
     </tags>
     
@@ -6919,9 +6919,9 @@
     
     <tags>
       
-      <tag>implementation</tag>
-      
       <tag>constructive</tag>
+      
+      <tag>implementation</tag>
       
     </tags>
     
@@ -7596,9 +7596,9 @@
     
     <tags>
       
-      <tag>implementation</tag>
-      
       <tag>constructive</tag>
+      
+      <tag>implementation</tag>
       
       <tag>string</tag>
       
@@ -7633,9 +7633,9 @@
       
       <tag>2d-array</tag>
       
-      <tag>implementation</tag>
-      
       <tag>constructive</tag>
+      
+      <tag>implementation</tag>
       
     </tags>
     
@@ -7697,9 +7697,9 @@
     
     <tags>
       
-      <tag>implementation</tag>
-      
       <tag>constructive</tag>
+      
+      <tag>implementation</tag>
       
     </tags>
     
@@ -7730,9 +7730,9 @@
     
     <tags>
       
-      <tag>implementation</tag>
-      
       <tag>constructive</tag>
+      
+      <tag>implementation</tag>
       
     </tags>
     
