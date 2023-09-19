@@ -90,9 +90,7 @@
       
       <tag>tree</tag>
       
-      <tag>complier</tag>
-      
-      <tag>flag</tag>
+      <tag>complier_flag</tag>
       
     </tags>
     
@@ -123,11 +121,11 @@
     
     <tags>
       
-      <tag>sorting</tag>
-      
       <tag>binary</tag>
       
       <tag>tree</tag>
+      
+      <tag>sorting</tag>
       
     </tags>
     
@@ -197,9 +195,7 @@
       
       <tag>tree</tag>
       
-      <tag>complier</tag>
-      
-      <tag>flag</tag>
+      <tag>complier_flag</tag>
       
     </tags>
     
@@ -2111,9 +2107,7 @@
       
       <tag>struct</tag>
       
-      <tag>complier</tag>
-      
-      <tag>flag</tag>
+      <tag>complier_flag</tag>
       
     </tags>
     
@@ -2181,9 +2175,7 @@
       
       <tag>IMPORTANT</tag>
       
-      <tag>complier</tag>
-      
-      <tag>flag</tag>
+      <tag>complier_flag</tag>
       
     </tags>
     
@@ -3320,9 +3312,7 @@
       
       <tag>recursion</tag>
       
-      <tag>complier</tag>
-      
-      <tag>flag</tag>
+      <tag>complier_flag</tag>
       
     </tags>
     
@@ -3388,9 +3378,7 @@
       
       <tag>linked-list</tag>
       
-      <tag>complier</tag>
-      
-      <tag>flag</tag>
+      <tag>complier_flag</tag>
       
     </tags>
     
@@ -4624,9 +4612,7 @@
       
       <tag>tree</tag>
       
-      <tag>complier</tag>
-      
-      <tag>flag</tag>
+      <tag>complier_flag</tag>
       
     </tags>
     
@@ -4694,11 +4680,9 @@
       
       <tag>tree</tag>
       
+      <tag>complier_flag</tag>
+      
       <tag>bst</tag>
-      
-      <tag>complier</tag>
-      
-      <tag>flag</tag>
       
     </tags>
     
@@ -6663,11 +6647,11 @@
     
     <tags>
       
+      <tag>2d-array</tag>
+      
       <tag>loop</tag>
       
       <tag>online</tag>
-      
-      <tag>2d-array</tag>
       
     </tags>
     
